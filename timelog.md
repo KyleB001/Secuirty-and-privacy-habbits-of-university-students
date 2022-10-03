@@ -9,13 +9,13 @@
 ### Week 0
  
 * *1 hours* Reading project guidance
-* *2 hours* Inital Project Presentation
+* *2 hours* Initial Project Presentation
 
 ### Week 1
 
 #### 3/10/22
 
-* *1 hours* Inital background reading
+* *1 hours* Initial background reading
 * *0.5 hours* Initial meeting
-* *2 hours* seting up inital living documents
+* *2 hours* setting up initial living documents
 
